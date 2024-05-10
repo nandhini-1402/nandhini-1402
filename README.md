@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nandhini S</h1>
 <h3 align="center">A passionate Tech Enthusiast</h3>
-
+<img align="right" alt="Coding" width="400" src="C:\Users\91959\Downloads\IMG20240405140118.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini-1402&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini-1402" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhini-1402" alt="nandhini-1402" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@nandhin38169279" target="blank"><img src="https://img.shields.io/twitter/follow/@nandhin38169279?logo=twitter&style=for-the-badge" alt="@nandhin38169279" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Multispectral Wellness Predictor**
 
