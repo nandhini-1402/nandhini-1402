@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Multispectral Wellness Predictor**
 
-- 🌱 I’m currently learning **Machine learning,Web deve**
+- 🌱 I’m currently learning **Machine learning,Web development**
 
 - 👯 I’m looking to collaborate on **the IT companies**
 
@@ -20,8 +20,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/nandhini-1402](https://github.com/nandhini-1402)
 
 - 📝 I update myself on [https://www.linkedin.com/in/nandhiniaiml/](https://www.linkedin.com/in/nandhiniaiml/)
-
-- 💬 Ask me about **achievements**
 
 - 📫 How to reach me **nandhinisaravanan142@gmail.com**
 
