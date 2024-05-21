@@ -16,10 +16,6 @@
 
 - 🌱 I’m currently learning **Machine learning,Web development**
 
-- 👯 I’m looking to collaborate on **the IT companies**
-
-- 🤝 I’m looking for help with **the industrial experts**
-
 - 👨‍💻 All of my projects are available at [https://github.com/nandhini-1402](https://github.com/nandhini-1402)
 
 - 📝 I update myself on [https://www.linkedin.com/in/nandhiniaiml/](https://www.linkedin.com/in/nandhiniaiml/)
@@ -28,7 +24,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13l-AqyJNRFihAm2DULDqVHVfSsRDPebx/view](https://drive.google.com/file/d/13l-AqyJNRFihAm2DULDqVHVfSsRDPebx/view)
 
-- ⚡ Willing to colloborate ?! **Definitely!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
