@@ -1,6 +1,6 @@
 [![Banner](https://raw.githubusercontent.com/nandhini-1402/bannerimg/main/Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.png)](https://www.canva.com/design/DAGE6PJA0Ko/SmFJGlH4Svw07lc6HivFPQ/edit?utm_content=DAGE6PJA0Ko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
-<h1 align="center">Hi 👋, I'm Nandhini S</h1>
+<h1 align="center">Hi 👋, I'm Nandhini S</h1> 
 <h3 align="center">A passionate Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini-1402&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini-1402" /> </p>
