@@ -6,7 +6,7 @@
 
 ## About Me
 
-I've Bachelor of Technology student at M Kumarasamy College of Engineering, Karur, from Namakkal. I'm passionate about Machine Learning and have experience working with various machine learning models and technologies. I also have a solid foundation in Java.
+I've completed Bachelor of Technology student at M Kumarasamy College of Engineering, Karur, from Namakkal. I'm passionate about Machine Learning and have experience working with various machine learning models and technologies. I also have a solid foundation in Java.
 
 ## Education
 
