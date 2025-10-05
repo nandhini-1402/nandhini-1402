@@ -1,5 +1,3 @@
-<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
-
 # Hi there, I'm Nandhini S. 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini-1402&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini-1402" /> </p>
 
@@ -8,7 +6,7 @@
 
 ## About Me
 
-I'm a final year Bachelor of Technology student at M Kumarasamy College of Engineering, Karur, from Namakkal. I'm passionate about Machine Learning and have experience working with various machine learning models and technologies. I also have a solid foundation in Java.
+I've Bachelor of Technology student at M Kumarasamy College of Engineering, Karur, from Namakkal. I'm passionate about Machine Learning and have experience working with various machine learning models and technologies. I also have a solid foundation in Java.
 
 ## Education
 
